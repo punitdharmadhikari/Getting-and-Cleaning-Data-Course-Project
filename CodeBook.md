@@ -16,6 +16,7 @@ The full description of the data is available from
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 The following are temporary variables created in order to extract data from the text files.
+
 1) test_set
 
 2) train_set
@@ -31,6 +32,7 @@ The following are temporary variables created in order to extract data from the 
 
 
 These variables were then loaded with data sets and then "merged" using the rbind function. They were stored in the following variable names.
+
 1) merged_sets
 
 2) merged_labels
@@ -77,6 +79,7 @@ Several variables were created for the loop function in order to add data to the
 5) end_row
 
 6) tidy_data_2
+
 7) r
 
 
