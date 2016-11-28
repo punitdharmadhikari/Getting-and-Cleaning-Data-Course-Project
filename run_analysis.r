@@ -65,8 +65,8 @@ for(i in 1:n_subjects)
     tidy_data_2[r, 2] <- activity_labels[j, 2]
     merged_data <- tidy_data[tidy_data$Subject==i & tidy_data$Activity==activity_labels[j,2],]
     tidy_data_2[r, 3:n_tidydata] <- colMeans(merged_data[, 3:n_tidydata])
-    r <- r + 1
   }
+    r <- r + 1  
 }
 
 write.table(tidy_data,"tidy_data_2.txt")
