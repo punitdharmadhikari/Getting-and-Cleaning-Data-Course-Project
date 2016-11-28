@@ -4,7 +4,7 @@
 Getting and Cleaning Data Course Project
 ==================================================================
 Punit Dharmadhikari
-https://github.com/punitdharmadhikari/Getting-and-Cleaning-Data-Course-Project
+https://github.com/punitdharmadhikari/
 ==================================================================
 
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set.
